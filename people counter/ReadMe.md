@@ -6,4 +6,9 @@ For example if at a moment 5 person enters then we increases the no by clicking 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Basic View 
+![App Screenshot](https://github.com/Ayushpwr27/Javascript/blob/main/people%20counter/screenshots/People_Counter_1.png?text=basic+view)
+### Counter Increment
+![App Screenshot](https://github.com/Ayushpwr27/Javascript/blob/main/people%20counter/screenshots/People_Counter_2.png?text=counter+Increment)
+### Value Saved
+![App Screenshot](https://github.com/Ayushpwr27/Javascript/blob/main/people%20counter/screenshots/People_Counter_3.png?text=value+saved)
