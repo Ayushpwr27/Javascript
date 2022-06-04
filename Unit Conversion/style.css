@@ -1,0 +1,180 @@
+body{
+position: absolute;
+width: 550px;
+height: 550px;
+left: 70px;
+top: 43px;
+padding-bottom: 10px;
+background: #FBF7EE;
+}
+
+
+
+/* Upper part Start */
+
+div.main-el{
+position: absolute;
+width: 550px;
+height: 260px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+}
+
+h1{
+position: absolute;
+width: 448.4px;
+height: 38px;
+left: 51px;
+top: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 38px;
+/* identical to box height, or 173% */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+color: #FFFFFF;
+}
+
+/* number to convert */
+span {
+position: absolute;
+width: 211px;
+height: 51.23px;
+left: 169px;
+top: 155px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 97.5723px;
+line-height: 24px;
+/* or 25% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/* Upper part ends */
+
+
+
+/* lower part starts */
+
+div.result-el{
+    position: absolute;
+width: 346px;
+height: 215px;
+left: 102px;
+top: 297px;
+}
+
+div.conversion-result1{
+    position: absolute;
+    width: 346px;
+    height: 55px;
+    left: 102px;
+    top: 297px;
+}
+
+div.conversion-resul2{
+    position: absolute;
+    width: 346px;
+    height: 55px;
+    left: 102px;
+    top: 379px;
+}
+
+div.conversion-result3{
+    position: absolute;
+    width: 346px;
+    height: 51px;
+    left: 102px;
+    top: 461px;
+}
+
+h3.conv-heading{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    text-align: center;
+    
+    color: #1A1921;
+}
+
+h3#conv-heading1{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 297px;
+}
+h3#conv-heading2{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 379px;
+}
+h3#conv-heading3{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 461px;
+}
+
+h3.conv-result{   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    text-align: center;
+    
+    color: #4E4E4E;
+}
+
+
+h3#conv-result1{
+    position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 327px;
+}
+
+h3#conv-result2{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 409px;
+    
+    /* text-sm/leading-5/font-normal */
+    
+}
+
+h3#conv-result3{
+    position: absolute;
+    width: 346px;
+    height: 21px;
+    left: 102px;
+    top: 491px;
+}
+
+
+
